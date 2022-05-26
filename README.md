@@ -65,7 +65,28 @@ A comprehensive collection of open source C++ examples for [Vulkan®](https://ww
     * Validation Layers
     * Surface, Image Views and the swapchain
     * SwapChain: The surface
-    ....
-* Iportant Techniques
+    * SwapChain: Creating the Swapchain and Image Views
+    * Graphics Pipeline
+    * Shader Modules
+    * Fixed Functionality and the Render Pass
+    * Frame Buffers, Command Buffers, and Synchronization
+    * Framebuffer and Command Buffers
+    * Drawing and Synchronisation
+    * Resource Loading
+    * Vertex Input
+    * Index Buffers and Staging Buffers
+    
+* Important Techniques
+    *  Descriptor Sets and Push Constants
+    *  Descriptor Sets: Uniform Buffers
+    *  Descriptor Sets: Dynamic Uniform Buffers
+    *  Push Constants
+    *  Depth Buffer
+    *  Textures
+    *  Textures Part 1: Image Setup & Pipeline Barriers
+    *  Textures Part 2: Samplers & Descriptors
+    *  Model Loading
+    *  Subpasses
 
 * Outtro
+    * Future Reading and Summary
