@@ -21,7 +21,7 @@ public:
 		int newTexId);
 
 	void setModel(glm::mat4 newModel);
-	Model getModel();
+	Model& getModel();
 
 	int getTexId();
 

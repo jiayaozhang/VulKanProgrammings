@@ -40,7 +40,7 @@ int main()
 	float deltaTime = 0.0f;
 	float lastTime = 0.0f;
 
-	int helicopter = vulkanRenderer.createMeshModel("Models/uh60.obj");
+	int helicopter = vulkanRenderer.createMeshModel("Models/chopper.obj");
 
 	// Loop until closed
 	while (!glfwWindowShouldClose(window))

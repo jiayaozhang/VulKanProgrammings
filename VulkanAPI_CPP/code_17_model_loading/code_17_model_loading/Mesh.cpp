@@ -27,7 +27,7 @@ void Mesh::setModel(glm::mat4 newModel)
 	model.model = newModel;
 }
 
-Model Mesh::getModel()
+Model& Mesh::getModel()
 {
 	return model;
 }
