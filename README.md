@@ -90,3 +90,17 @@ A comprehensive collection of open source C++ examples for [Vulkan®](https://ww
 
 * Outtro
     * Future Reading and Summary
+
+
+
+# Vulkan Guide
+`https://vkguide.dev/`
+
+* Initial Setup
+* Initialization and Render Loop
+* The graphics pipeline, Hello Triangle
+* Drawing meshes
+* Buffers, Shader input/output
+* Textures
+* GPU Driven Rendering
+* Great resources
